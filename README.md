@@ -2,7 +2,7 @@
 
 ## ¿se puede vivir del hardware libre?
 
-### Desarrollos y documentación 100% open
+## con desarrollos y documentación 100% open
 
 ### [Arduino](http://arduino.cc)
 
@@ -60,6 +60,8 @@
 
 ### [Makerbot](http://makerbot.com) (antes de irse al lado oscuro)
 
+![2](http://www.robotshop.com/blog/en/files/makerbot-replicator-2.jpg)
+
 * * *
 
 ### [Bq](bq.com)
@@ -92,8 +94,12 @@
 
 
 ## Coches
+
 * [OSVehicle](https://www.osvehicle.com/)
 
+## Fablab
+
+![4](http://fablabasia.net/wp-content/uploads/2014/03/whatisfablab.jpg)
 
 ## ¿Dónde encontrar proyectos con Open Hardware
 

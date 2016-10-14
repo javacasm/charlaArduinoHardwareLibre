@@ -18,6 +18,8 @@
 
 ### [Cooking Hacks/Libelium](https://www.cooking-hacks.com/)
 
+![2](https://www.cooking-hacks.com/wp/wp-content/uploads/2016/10/ehealth_mysignals_banner_tutorial.jpg)
+
 ### [iTead Estudio](https://www.itead.cc/)
 
 ![4](http://blog.iteadstudio.com/wp-content/uploads/image/2015_07/Tutorial%201-fishtank-pic%20foca.JPG)
@@ -88,7 +90,6 @@
 
 ![e12](https://cdn-learn.adafruit.com/guides/images/000/001/007/medium500/qt.jpg?1448302153)
 
-### placa son Sam3
 
 ## Coches
 * [OSVehicle](https://www.osvehicle.com/)

@@ -101,6 +101,14 @@
 
 ![4](http://fablabasia.net/wp-content/uploads/2014/03/whatisfablab.jpg)
 
+## FPGA
+
+## IceZum Alhambra!!!!
+
+![3](https://upload.wikimedia.org/wikipedia/commons/3/3a/Icezum_Alhambra_Open_FPGA_electronic_board.png)
+
+### [Charla Obijuan](https://github.com/Obijuan/myslides/wiki/2016_09_23-Granada-Geek-FPGAs-Libres)
+
 ## ¿Dónde encontrar proyectos con Open Hardware
 
 * [Sparkfun.com](http://Sparkfun.com)

@@ -63,6 +63,13 @@
 ![2](http://www.robotshop.com/blog/en/files/makerbot-replicator-2.jpg)
 
 * * *
+## Prótesis impresas
+
+[Proyecto e-nable](http://enablingthefuture.org/)
+[Q](
+
+https://goo.gl/images/HIhNUC
+* * *
 
 ### [Bq](bq.com)
 
@@ -92,6 +99,12 @@
 
 ![e12](https://cdn-learn.adafruit.com/guides/images/000/001/007/medium500/qt.jpg?1448302153)
 
+## Ordenadores/servidores
+
+Facebook ha liberado su diseño de servidores
+
+[OpenCompute](http://www.opencompute.org/)
+
 
 ## Coches
 
@@ -108,6 +121,7 @@
 ![3](https://upload.wikimedia.org/wikipedia/commons/3/3a/Icezum_Alhambra_Open_FPGA_electronic_board.png)
 
 ### [Charla Obijuan](https://github.com/Obijuan/myslides/wiki/2016_09_23-Granada-Geek-FPGAs-Libres)
+
 
 ## ¿Dónde encontrar proyectos con Open Hardware
 

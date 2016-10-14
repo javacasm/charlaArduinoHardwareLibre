@@ -2,7 +2,7 @@
 
 ## ¿se puede vivir del hardware libre?
 (Buscar tamaño, facturación y número de desarrolLos)
-Desarrollos y documentación 100% open 
+Desarrollos y documentación 100% open
 ### Arduino 1.000.000 placas al ¿mes?
 
 ### Adafruit
@@ -44,6 +44,15 @@ Pero no solo de placas se alimenta el SAV geek
 
 ### placa son Sam3
 
-### 
+## Coches
+* [OSVehicle](https://www.osvehicle.com/)
 
 
+## ¿Dónde encontrar proyectos con Open Hardware
+
+Sparkfun.com
+Adafruit.com
+makezine.com
+instructables.com
+hackaday.com
+hackster.io
